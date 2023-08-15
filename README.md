@@ -34,3 +34,5 @@ For easier access to certain insights, the project includes several SQL views:
 2. **Database Connection**: Connect to your SQL database where the datasets reside.
 3. **Run Queries**: Execute the SQL queries provided in the project to perform various analyses.
 4. **Interpret Results**: Interpret the results of the queries to gain insights into COVID-19 trends.
+
+**The project was started and completed using: `SQL Server Management Studio`**
