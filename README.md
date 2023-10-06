@@ -28,6 +28,10 @@ For easier access to certain insights, the project includes several SQL views:
 - `GlobalNumbers`: Presents death rates based on continents.
 - `VaccinationCount`: Displays vaccination counts and vaccination rates.
 
+## Data Visualization
+
+Make sure to find out more about the insights by checking out the [**Tableau**](https://public.tableau.com/app/profile/ahmed.sakka/viz/CovidData_16846913426040/Dashboard1) Visualization.
+
 ## Usage
 
 1. **Setup**: Ensure you have access to the provided `CovidDeaths` and `CovidVaccinations` datasets.
